@@ -1,0 +1,17 @@
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\bin\Debug\net8.0-windows\JKSoftwareAssistant.exe
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\bin\Debug\net8.0-windows\JKSoftwareAssistant.deps.json
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\bin\Debug\net8.0-windows\JKSoftwareAssistant.runtimeconfig.json
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\bin\Debug\net8.0-windows\JKSoftwareAssistant.dll
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\bin\Debug\net8.0-windows\JKSoftwareAssistant.pdb
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.Form1.resources
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.csproj.GenerateResource.cache
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.AssemblyInfoInputs.cache
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.AssemblyInfo.cs
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.csproj.CoreCompileInputs.cache
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.sourcelink.json
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.dll
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\refint\JKSoftwareAssistant.dll
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.pdb
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\JKSoftwareAssistant.genruntimeconfig.cache
+E:\Programming Projects\JKSoftwareAssistant\JKSoftwareAssistant\obj\Debug\net8.0-windows\ref\JKSoftwareAssistant.dll

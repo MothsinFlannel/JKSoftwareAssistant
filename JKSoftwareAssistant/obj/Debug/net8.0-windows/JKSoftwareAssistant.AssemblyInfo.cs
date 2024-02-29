@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JKSoftwareAssistant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec4be4437f5587873a2fcefdfb446a3bc1c49b5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea362b58176b961cadcb0f56600fc59d6d319f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("JKSoftwareAssistant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JKSoftwareAssistant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

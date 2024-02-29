@@ -8,23 +8,25 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\James Harrell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\deadm\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James Harrell\\Documents\\GitHub\\JKSoftwareAssistant\\JKSoftwareAssistant\\JKSoftwareAssistant.csproj",
+      "projectUniqueName": "E:\\Programming Projects\\JKSoftwareAssistant\\JKSoftwareAssistant\\JKSoftwareAssistant.csproj",
       "projectName": "JKSoftwareAssistant",
-      "projectPath": "C:\\Users\\James Harrell\\Documents\\GitHub\\JKSoftwareAssistant\\JKSoftwareAssistant\\JKSoftwareAssistant.csproj",
-      "packagesPath": "C:\\Users\\James Harrell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James Harrell\\Documents\\GitHub\\JKSoftwareAssistant\\JKSoftwareAssistant\\obj\\",
+      "projectPath": "E:\\Programming Projects\\JKSoftwareAssistant\\JKSoftwareAssistant\\JKSoftwareAssistant.csproj",
+      "packagesPath": "C:\\Users\\deadm\\.nuget\\packages\\",
+      "outputPath": "E:\\Programming Projects\\JKSoftwareAssistant\\JKSoftwareAssistant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\James Harrell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\deadm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -46,6 +48,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -70,7 +77,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
